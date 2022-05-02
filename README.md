@@ -1,6 +1,6 @@
-# Joey Tuason: Data Science Portfolio Readme 👋
+# Joey Tuason: Data Science Profile 👋
 
-This github page contains works of Joey Tuason ranging from R to Python scripts.
+Welcome to my github profile! In here you will find links to my works across all my portfolios easily.
 
 ## Project Summary
 | Project | Description | Version | Date | Path |
@@ -9,9 +9,14 @@ This github page contains works of Joey Tuason ranging from R to Python scripts.
 | Data Reading  | Notebook on reading different datasets online and offline | 2 | 27.04.2022 | [Link](https://github.com/joeytuason83/joeytuason83.github.io/blob/9d899ae8acb82b75a68ed409f8ae00214ec28546/Scripts/Loading%20Datasets%20(Data%20Mining%20Week%202).ipynb) |
 | Reading ARFF | Read an ARFF file and covert it to a dataset | 1 | 30.04.2022 | [Link](https://github.com/joeytuason83/joeytuason83.github.io/blob/8e498beca63a55de43a6a5310127fb22d647061f/Machine%20Learning/Loading%20the%20Airline%20Dataset%20from%20OpenML.ipynb)
 
+## Upcoming Works and Long Term Plans
+1. Merge the Reading ARFF project to Data Reading
+2. Look for datasets to perform simple k-means clustering
+3. Create ML project identifying dog vs cat (long term)
+
 ## Contact
 
-📫 How to reach me: [Linkedin](www.linkedin.com/in/jose-mari-tuason-a0538820)
+📫 How to reach me: [Email](mailto:joeytuason@gmail.com) | [Linkedin](www.linkedin.com/in/jose-mari-tuason-a0538820)
 
 <!--
 **joeytuason83/joeytuason83** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
