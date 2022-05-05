@@ -6,12 +6,12 @@ Welcome to my github profile! In here you will find links to my works across all
 | Project | Description | Version | Date | Path |
 | :---: | :---: | :---: | :---: | :---: |
 | LDA on News Website Links | First NLP Project | 1 | 24.04.2022 | [Link](https://github.com/joeytuason83/joeytuason.github.io/blob/0787bcb38665ace91dae958de081eb568b8b2338/Machine%20Learning/LDA%20Topic%20Modelling%20on%20News%20Pages_FINAL.ipynb) |
-| Data Reading  | Notebook on reading different datasets online and offline | 2 | 27.04.2022 | [Link](https://github.com/joeytuason83/joeytuason83.github.io/blob/9d899ae8acb82b75a68ed409f8ae00214ec28546/Scripts/Loading%20Datasets%20(Data%20Mining%20Week%202).ipynb) |
-| Reading ARFF | Read an ARFF file and covert it to a dataset | 1 | 30.04.2022 | [Link](https://github.com/joeytuason83/joeytuason83.github.io/blob/8e498beca63a55de43a6a5310127fb22d647061f/Machine%20Learning/Loading%20the%20Airline%20Dataset%20from%20OpenML.ipynb)
+| Data Reading  | Notebook on reading different datasets online and offline | 3 | 05.05.2022 | [Link](https://github.com/joeytuason83/joeytuason83.github.io/blob/b4cf9f97ffff05b0f5d57690b5b14fea816279a9/Scripts/Loading%20Datasets.ipynb) |
+
 
 ## Upcoming Works and Long Term Plans
-1. Merge the Reading ARFF project to Data Reading
-2. Look for datasets to perform simple k-means clustering
+1. Look for datasets to perform simple k-means clustering
+2. Upload initial project in Data Visualization for individual and group
 3. Create ML project identifying dog vs cat (long term)
 
 ## Contact
