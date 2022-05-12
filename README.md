@@ -2,6 +2,9 @@
 
 Welcome to my github profile! In here you will find links to my works across all my portfolios easily.
 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joeytuason83)
+
 ## Project Summary
 | Project | Description | Version | Date | Path |
 | :--- | :--- | :---: | :---: | :---: |
